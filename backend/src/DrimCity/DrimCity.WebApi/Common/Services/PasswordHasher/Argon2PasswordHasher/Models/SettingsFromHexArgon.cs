@@ -1,4 +1,4 @@
-namespace DrimCity.WebApi.Features.Auth.Services.PasswordHasher.Argon2PasswordHasher.Models;
+namespace DrimCity.WebApi.Common.Services.PasswordHasher.Argon2PasswordHasher.Models;
 
 public class SettingsFromHexArgon
 {

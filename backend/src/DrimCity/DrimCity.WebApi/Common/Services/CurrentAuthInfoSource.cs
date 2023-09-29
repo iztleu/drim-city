@@ -1,7 +1,7 @@
 using System.Security.Claims;
 using DrimCity.WebApi.Common.Errors.Exceptions;
 
-namespace DrimCity.WebApi.Features.Auth.Services;
+namespace DrimCity.WebApi.Common.Services;
 
 public class CurrentAuthInfoSource
 {

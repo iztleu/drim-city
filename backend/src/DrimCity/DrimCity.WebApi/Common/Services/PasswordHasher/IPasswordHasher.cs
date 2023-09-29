@@ -1,4 +1,4 @@
-namespace DrimCity.WebApi.Features.Auth.Services.PasswordHasher;
+namespace DrimCity.WebApi.Common.Services.PasswordHasher;
 
 public interface IPasswordHasher
 {

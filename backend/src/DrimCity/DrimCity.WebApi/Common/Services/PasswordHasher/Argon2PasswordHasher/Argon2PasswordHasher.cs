@@ -1,10 +1,10 @@
 using System.Security.Cryptography;
 using System.Text;
-using DrimCity.WebApi.Features.Auth.Services.PasswordHasher.Argon2PasswordHasher.Models;
+using DrimCity.WebApi.Common.Services.PasswordHasher.Argon2PasswordHasher.Models;
 using Konscious.Security.Cryptography;
 using Microsoft.Extensions.Options;
 
-namespace DrimCity.WebApi.Features.Auth.Services.PasswordHasher.Argon2PasswordHasher;
+namespace DrimCity.WebApi.Common.Services.PasswordHasher.Argon2PasswordHasher;
 
 public class Argon2PasswordHasher: IPasswordHasher
 {

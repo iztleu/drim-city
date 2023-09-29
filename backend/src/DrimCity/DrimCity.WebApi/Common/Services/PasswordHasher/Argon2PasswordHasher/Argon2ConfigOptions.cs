@@ -1,4 +1,4 @@
-namespace DrimCity.WebApi.Features.Auth.Services.PasswordHasher.Argon2PasswordHasher;
+namespace DrimCity.WebApi.Common.Services.PasswordHasher.Argon2PasswordHasher;
 
 public record Argon2ConfigOptions
 {
